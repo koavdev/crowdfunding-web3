@@ -1,6 +1,6 @@
 # Krypt - Web 3.0 Blockchain App
 
-This project is a Web 3.0 Application built with React that allow users connect their wallets and interact with smart contracts as send ETH through Ropsten Testnet (Ethereum).
+This project is a Web 3.0 dApp built with React that allow users connect their wallets and interact with smart contracts as send ETH through Goerli Testnet (Ethereum).
 
 
 I watched this YouTube Tutorial to create this project:
