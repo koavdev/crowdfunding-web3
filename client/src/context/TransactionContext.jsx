@@ -41,10 +41,10 @@ export const TransactionProvider = ({ children }) => {
                 amount: parseInt(transaction.amount._hex) / (10 ** 18)
             }))
 
-            console.log(structuredTransactions.slice(0,1).concat(structuredTransactions.slice(2,)));
+            console.log(structuredTransactions.slice(0,1).concat(structuredTransactions.slice(2,)));      
             //console.log(structuredTransactions);
             
-            setTransactions(structuredTransactions.slice(0,1).concat(structuredTransactions.slice(2,)));
+            setTransactions(structuredTransactions.slice(0,1).concat(structuredTransactions.slice(2,6)).concat(structuredTransactions.slice(7,)));
             //setTransactions(structuredTransactions);
 
         } catch (error) {
