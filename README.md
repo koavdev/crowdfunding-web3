@@ -8,3 +8,5 @@ I watched this YouTube Tutorial to create this project:
 
 
 Project is live on [Netlify](https://prismatic-dieffenbachia-e871d7.netlify.app)
+
+<img src="https://user-images.githubusercontent.com/81250968/231482239-6c5f3073-3cc4-468a-82b8-0478e3efbb0d.png"/>
